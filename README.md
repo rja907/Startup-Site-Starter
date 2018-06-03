@@ -9,3 +9,9 @@
 ### Mobile screen:
 
 ![Mobile view](https://imgur.com/XlRAexS.jpg)
+
+> You can download the zip file, go to the project directory in the terminal and write `serve .` to run it on your local Machine.
+
+Cheers,
+[Raj](https://www.twitter.com/rja907)
+:D
